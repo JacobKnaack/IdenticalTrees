@@ -6,7 +6,7 @@ Code Challenge: Determine if 2 trees are identical
 
 ## Example Inputs and Outputs
 
-### Case 1: 2 Identical Trees
+### Case 1: Identical Trees
 
 Input:
 
